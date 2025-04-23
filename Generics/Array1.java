@@ -1,5 +1,5 @@
 package Generics;
 
-public class Box {
+public class Array1 {
 
 }
